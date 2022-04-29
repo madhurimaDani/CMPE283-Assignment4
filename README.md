@@ -14,10 +14,10 @@
   - Created documentation and updated README.md
 
 ### [2] Steps Followed
-
 - Followed up with Assignment 4 after completing steps for Assignment 3
 - By default, with nested paging enabled, executed command file containing sequence of cpuid -l 0x4ffffffd -s xx commands
 - From outer VM, checked messages by executing command: dmesg
+
 #### With Nested Paging (With EPT)
 
 <img width="414" alt="image" src="https://user-images.githubusercontent.com/51197183/165887394-02acf639-553a-45f5-86df-54a9bf60edae.png">
