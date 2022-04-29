@@ -54,17 +54,5 @@
     
 - What changed between the two runs (ept vs no-ept)?
     - Exit count increased with no-ept for most of the non-zero exit counts from ept run.  Below table shows the exit count changes for ept vs no-ept run:
+    
     <img width="366" alt="image" src="https://user-images.githubusercontent.com/51197183/165887622-7179bfba-495b-413e-8990-7a44b55bece6.png">
-
-         
-
-
-
-
-
-
-
-
-
-
-
