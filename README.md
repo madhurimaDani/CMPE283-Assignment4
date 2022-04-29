@@ -1,4 +1,4 @@
-# CMPE283-Assignment4
+# CMPE283 - Assignment4
 ## Assignment 4: Nested Paging vs. Shadow Paging
 
 ### Team Members
@@ -19,7 +19,6 @@
 - From outer VM, checked messages by executing command: dmesg
 
 #### With Nested Paging (With EPT)
-
 <img width="414" alt="image" src="https://user-images.githubusercontent.com/51197183/165887394-02acf639-553a-45f5-86df-54a9bf60edae.png">
 
 - From outer VM, checked messages by executing command: dmesg
@@ -45,8 +44,6 @@
 #### With Shadow Paging (Without EPT)
 
 <img width="468" alt="image" src="https://user-images.githubusercontent.com/51197183/165887452-3a638bc6-471e-4be6-b63d-75c5fd44bc98.png">
-
-
 
 ### [3] Questions
 - What did you learn from the count of exits? Was the count what you expected? If not, why not?
